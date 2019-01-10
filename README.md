@@ -21,6 +21,5 @@ Create Ethereum powered smart contract that would decentralize and automate a ga
 
 ### More Resources
 • [Super Bowl Squares Rules](http://keithlam.com/2006/02/07/football-squares-pool/)
-![SSSC Image][$HOME/Smart-Squares/img/SSSCWinnerGraphic.png]
-[$HOME/Smart-Squares/img/SSSCWinnerGraphic.png]: 
+* ![SSSC Image](img/SSSCWinnerGraphic.png)
 
