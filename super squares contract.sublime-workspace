@@ -1,0 +1,1768 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CUR",
+				"CURSOR_LEFT\t(KeyList.xml)"
+			],
+			[
+				"mod",
+				"ModifierFlag"
+			],
+			[
+				"VK_OPEN",
+				"VK_CONFIG_SYNC_KEYDOWNUP_notsave_E-Mode"
+			],
+			[
+				"OPEN",
+				"VK_OPEN_URL_KM_Karabiner_Preferences"
+			],
+			[
+				"id",
+				"identifier"
+			],
+			[
+				"option",
+				"option"
+			],
+			[
+				"referral",
+				"referral_code"
+			],
+			[
+				"FREE",
+				"FREE_BOOKINGS_FOR_RECIPIENT"
+			],
+			[
+				"free_bookin",
+				"free_bookings_remaining"
+			],
+			[
+				"free_booking",
+				"free_bookings_credit_used"
+			],
+			[
+				"free_bookings",
+				"free_bookings_remaining"
+			],
+			[
+				"bus",
+				"bus_registration_number"
+			],
+			[
+				"last",
+				"last_bus_stop_departure_time"
+			],
+			[
+				"alighting",
+				"alighting_bus_stop_id"
+			],
+			[
+				"board",
+				"boarding_bus_stop_id"
+			],
+			[
+				"boarding_bus",
+				"boarding_bus_stop_name"
+			],
+			[
+				"prev",
+				"previous_path"
+			],
+			[
+				"crossed",
+				"crossed_bus_stop"
+			],
+			[
+				"current",
+				"current_bus"
+			],
+			[
+				"depar",
+				"departure_time"
+			],
+			[
+				"regi",
+				"registration_number"
+			],
+			[
+				"boarding",
+				"boarding_bus_stop_id"
+			],
+			[
+				"paths",
+				"paths_on_route"
+			],
+			[
+				"destin",
+				"destination_path"
+			],
+			[
+				"source",
+				"source_path"
+			],
+			[
+				"avail",
+				"available"
+			],
+			[
+				"last_bus",
+				"last_bus_stop_path"
+			],
+			[
+				"last_bus_stop",
+				"last_bus_stop_id"
+			],
+			[
+				"update",
+				"update_firebase_entry_for_trip"
+			],
+			[
+				"aligh",
+				"alighting_bus_stop_id"
+			],
+			[
+				"aut",
+				"authenticate_bus_with_token"
+			],
+			[
+				"walki",
+				"walking_directions_to_bus_stop"
+			],
+			[
+				"boardin",
+				"boarding_bus_stop"
+			],
+			[
+				"walking",
+				"walking_direction_from_bus_stop"
+			],
+			[
+				"walk",
+				"walking_direction_from_bus_stop"
+			],
+			[
+				"source_bus",
+				"source_bus_stop_path"
+			],
+			[
+				"destination",
+				"destination"
+			],
+			[
+				"trips",
+				"trips_with_availability"
+			],
+			[
+				"max",
+				"max_occupancy"
+			],
+			[
+				"total",
+				"total_deboarded"
+			],
+			[
+				"alight",
+				"alighting_bus_stop_id"
+			],
+			[
+				"alig",
+				"alighting_bus_stop_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 52,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"edn",
+				"Set Syntax: EDN"
+			],
+			[
+				"set syntax edn",
+				"Set Syntax: EDN"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax",
+				"Set Syntax: Clojure"
+			],
+			[
+				"syntax edn",
+				"PackageDev: New Syntax Definition"
+			],
+			[
+				"syntax cloj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"syntaxcloj",
+				"Set Syntax: ClojureC"
+			],
+			[
+				"syntaxclo",
+				"Set Syntax: Clojure"
+			],
+			[
+				"syntax",
+				"Set Syntax: Clojure"
+			],
+			[
+				"edn synt",
+				"Set Syntax: EDN"
+			],
+			[
+				"syntax ",
+				"Set Syntax: Clojure"
+			],
+			[
+				"packag li",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"prv o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packag",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"set syntax clj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"insert",
+				"Snippet: InsertHeader: Located in User"
+			],
+			[
+				"set synt clj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"acti",
+				"ayu: Activate theme"
+			],
+			[
+				"activate",
+				"ayu: Activate theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"activate ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"act",
+				"ayu: Activate theme"
+			],
+			[
+				"syntax clj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pastry ",
+				"Text Pastry: Command-Line"
+			],
+			[
+				"pastry",
+				"Text Pastry: uuid (lower-case)"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax cl",
+				"Set Syntax: Clojure"
+			],
+			[
+				"rename ",
+				"Rename File"
+			],
+			[
+				"key",
+				"Snippet: Karabiner Key Chord"
+			],
+			[
+				"km",
+				"Snippet: KM KeyCode [Karabiner]"
+			],
+			[
+				"chord",
+				"Snippet: Karabiner Key Chord"
+			],
+			[
+				"new ch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"keychord",
+				"Snippet: Karabiner Key Chord"
+			],
+			[
+				"keycho",
+				"Snippet: Karabiner Key Chord"
+			],
+			[
+				"new sim",
+				"Snippet: Karabiner New Simultaneous Key Press"
+			],
+			[
+				"new au",
+				"Snippet: NewAutogen"
+			],
+			[
+				"newma",
+				"Snippet: NewKeymap: insert a new key mapping"
+			],
+			[
+				"keych",
+				"Snippet: Karabiner Key Chord"
+			],
+			[
+				"key chord",
+				"Snippet: Karabiner Key Chord"
+			],
+			[
+				"eychor",
+				"Snippet: Karabiner Key Chord"
+			],
+			[
+				"snippet karabiner",
+				"Snippet: NewAutogen for Karabiner XML"
+			],
+			[
+				"autogen",
+				"Snippet: NewAutogen for Karabiner XML"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"km ",
+				"Snippet: kmdef: "
+			],
+			[
+				"url",
+				"Snippet: NewURLdef "
+			],
+			[
+				"snippet new kara",
+				"Snippet: NewKeymap: insert a new key mapping"
+			],
+			[
+				"snippet chord",
+				"Snippet: HoldingKeyChord"
+			],
+			[
+				"snippet auto",
+				"Snippet: NewAutogen"
+			],
+			[
+				"snippets ",
+				"Snippet: newkrb: located in User/Snippets "
+			],
+			[
+				"snippet",
+				"Snippet: HoldingKeyChord"
+			],
+			[
+				"clone ",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"clone",
+				"Origami: Clone File to Pane on the Left"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"delete ",
+				"File: Delete"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"save all",
+				"File: Save All"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Text Pastry: Range (numeric)"
+			],
+			[
+				"snippet key",
+				"Snippet: KM KeyCode[Karabiner] "
+			],
+			[
+				"highlight brack",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"Snippet: ",
+				"Snippet: NewHeader: Insert File Header (Located in subfolder)Snippet for ahk and text files with similar commenting"
+			],
+			[
+				"newheader",
+				"Snippet: NewHeader: Insert File Header (Located in subfolder)Snippet for ahk and text files with similar commenting"
+			],
+			[
+				"snippet xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"snippet new",
+				"Snippet: NewEnd"
+			],
+			[
+				"snippet section",
+				"Snippet: SectionSeperator: (located in User)"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"pastry range",
+				"Text Pastry: Range (numeric)"
+			],
+			[
+				"past",
+				"Text Pastry: Paste"
+			],
+			[
+				"wrap sele",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"left brack",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"highlight",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"select",
+				"Text Pastry: Add selection"
+			],
+			[
+				"log",
+				"Snippet: LogCommands"
+			],
+			[
+				"Snippet: log",
+				"Snippet: LogCommands"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"map",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"package ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"color sh",
+				"Select Color Scheme"
+			],
+			[
+				"",
+				"Toggle Fold Comments"
+			],
+			[
+				"lsit packages",
+				"Package Control: List Packages"
+			],
+			[
+				"sublime tuto",
+				"Sublime Tutor: Start"
+			],
+			[
+				"sublimegit",
+				"SublimeGit: Version"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"fine key ",
+				"FindKeyConflicts: All Key Maps to Quick Panel"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install packae",
+				"Package Control: Install Package"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"synta",
+				"Set Syntax: Diff"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"pretty ",
+				"Pretty Ruby: Format"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax git diff",
+				"Set Syntax: SublimeGit Diff"
+			],
+			[
+				"git b lame",
+				"Git: Blame"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"package remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"syntax diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:diff",
+				"Set Syntax: Diff"
+			]
+		],
+		"width": 707.0
+	},
+	"console":
+	{
+		"height": 263.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"subprocess.Popen([executable_path, './Tutorial'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')",
+			"subprocess.Popen([executable_path, './'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')",
+			"subprocess([executable_path, './'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')",
+			"executable_path",
+			"executable_path = app_path+\"Contents/SharedSupport/bin/subl\"",
+			"app_path = executable_path[:executable_path.rfind(\".app/\")+5]",
+			"executable_path = sublime.executable_path()",
+			"subprocess.Popen(['pwd'])",
+			"import subprocess",
+			"sublime.active_window().run_command(\"sublime_tutor_new_window\")",
+			"sublime.active_window().run_command",
+			"sublime.active_window()",
+			"sublime.executable_path()",
+			"subliem.executable_path()",
+			"executable_path[:executable_path.rfind(\".app/\")+5] + \"Contents/SharedSupport/bin/subl\"",
+			"executable_path[:executable_path.rfind(\".app/\")+5]",
+			"executable_path = sublime.executable_path()",
+			"sublime.executable_path().executable_path[:executable_path.rfind(\".app/\")+5]",
+			"executable_path[:executable_path.rfind(\".app/\")+5]",
+			"sublime.executable_path()",
+			"sublime.log_commands(False)",
+			"sublime.open_project",
+			"window.open_project",
+			"window.open_file",
+			"view.run_command(\"select_by_index\")",
+			"window.run_command(\"select_by_index\")",
+			"sublime.select_by_index",
+			"view.run_command(\"example\")",
+			"sublime.run_command(\"example\")",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Loudog/Library/Application Support/Sublime Text 3/Packages/EDN/package-metadata.json",
+		"/Users/Loudog/Dropbox/Sync/KarabinerElements/To Do [Karabiner Elements]",
+		"/Users/Loudog/Dropbox/Sync/KarabinerElements/KarabinerElementsConfiguration.sublime-workspace",
+		"/Users/loudog/Dropbox/Sync/KarabinerElements/goku src.edn",
+		"/Users/Loudog/Dropbox/Sync/KarabinerElements/Nikita.edn",
+		"/Users/Loudog/Dropbox/Sync/KarabinerElements/karabinerSync.edn",
+		"/Users/OldLou/Dropbox/Sync/KarabinerElements/karabinerSync.edn",
+		"/Users/OldLou/.config/karabiner/karabiner.json",
+		"/Users/OldLou/Dropbox/Sync/KarabinerElements/KarabinerElementsConfiguration.sublime-workspace",
+		"/Users/OldLou/Dropbox/Sync/KarabinerElements/Goku Examples.clj",
+		"/Users/Loudog/Dropbox/Sync/KarabinerElements/Key List",
+		"/Users/Loudog/Dropbox/Sync/KarabinerElements/KarabinerElementsConfiguration.sublime-project",
+		"/Users/Loudog/.config/karabiner/karabiner.json",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/D-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/K-Mode.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/apps/safari.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/New-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/Homerow-Numbers-Symbols.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/L-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/SEMICOLON-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/H-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/SimultaneousKeyPress.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/ModePasteBin.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Reference/Pastebin.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/M-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/J-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/VK/KM.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/F-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/S-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/U-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/C-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/Space-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Definitions/ReplacementDefinitions.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/HyperKey.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/KarabinerKeys.sublime-workspace",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/N-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/QUOTE-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/B-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Reference/KeyList.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/SLASH-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/QUOTE-Mode",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/A-Mode.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/simultaneouskeypresses.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/P-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/DOT-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/VK/AppDef.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Reference/FilterReference.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Reference/Templates.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Reference/TemplateReference.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/E-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/Lou-homerow mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/HoldingKey.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/PC_APPLICATION-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/G-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/T-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/HoldKeys.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/Micros.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/languages/japanese/keyboard_layouts/updown_dvorak.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/Q-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/W-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/DoublePressModifiers.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/Z-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/R-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/VK/KM.xml.20171213",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/V-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/COMMA-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/Tab-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/O-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/LouLauncher.xml",
+		"/Users/Loudog/Dropbox/Sync/AppleScripts/Applications/Global/NewLog.applescript",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/I-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/privateSync.xml",
+		"/Users/Loudog/Dropbox/Sync/AppleScripts/Applications/Global/LogCompleted.applescript",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/X-Mode.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/samples.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/samples/filters.xml",
+		"/Users/Loudog/Library/Application Support/Karabiner/ThumbSenseBackup.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/thumbsense.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Definitions/Definitions.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/emacs_mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Slate-Mode.xml",
+		"/Applications/Karabiner.app/Contents/Resources/replacementdef.xml",
+		"/Applications/Karabiner.app/Contents/Resources/modifierdef.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/mouse_keys.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Reference/nikitaReference.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/homerow_numbers.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/homerow_mode.xml",
+		"/Users/Loudog/Desktop/homerow_mode(reformatted).xml",
+		"/Users/Loudog/Dropbox/Sync/AppleScripts/EditAppleScripts.sublime-workspace",
+		"/Users/Loudog/Dropbox/Sync/AppleScripts/Applications/Evernote/Copy Classic Link.scpt",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/EasyKeys.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/Screenshots.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/commons/sticky_modifiers/SHIFT_L.xml",
+		"/Users/loudog/Dropbox/Sync/Karabiner/KarabinerKeys.sublime-workspace",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/QueryMode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/Semi-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Backup/LaunchermodeBackup.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/launcher_mode.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/samples/virtual_keycodes.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Definitions/KMDefinitions.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/standards/fn.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/FN-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/1-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/2-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/3-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/BRACKET_RIGHT-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/CmdK-Mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/newMode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/SyntaxTesting.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/standards/function.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/HoldingFKeysforConsumerFunction.xml",
+		"/Users/Loudog/Library/Application Support/Sublime Text 3/Packages/Jump Along Indent/README.md",
+		"/Users/Loudog/Library/Application Support/Sublime Text 3/Packages/All Autocomplete/README.md",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/M-Mode",
+		"/Users/Loudog/Dropbox/Sync/Slate/SlateKeys.sublime-workspace",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/CommandSpace.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/VK/APP.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/LaunchModeReference.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/pass_through_mode.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Modes/D-Mode",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/HoldToActivate.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/samples/virtual_keycodes/vk_mousekey.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/pointing_device.xml",
+		"/Applications/Karabiner.app/Contents/Resources/symbol_map.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/standards/semicolon.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/Pastebin.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/ExtraArrowKeys.xml",
+		"/Users/Loudog/Dropbox/Sync/Karabiner/User/AlternativeFnKeys.xml"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scope",
+			"comment",
+			"lf",
+			"new",
+			"2",
+			"1",
+			"theme",
+			"scheme",
+			"µ",
+			"f",
+			"km",
+			"ni¬",
+			"nµ",
+			"tdd",
+			"dDP",
+			"kDP",
+			"test-mode-k-dbpress-mode",
+			"semicolon",
+			"slash",
+			"j",
+			"km",
+			"f",
+			"d",
+			"button",
+			"pointing",
+			"point",
+			"d",
+			"spacebar",
+			"tab",
+			"cursor",
+			"f",
+			"arrow",
+			"hyper",
+			"cap",
+			";"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"last_modified_indicator": true,
+							"last_modified_indicator_file_save_clear": false,
+							"last_modified_indicator_multiline": true,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 98.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "super squares contract.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nik",
+				"KarabinerElements/Nikita.edn"
+			],
+			[
+				"paste",
+				"KarabinerElements/PasteBin.edn"
+			],
+			[
+				"sim",
+				"KarabinerElements/SimLayers.edn"
+			],
+			[
+				"to do",
+				"KarabinerElements/To Do [Karabiner Elements]"
+			],
+			[
+				"ref",
+				"KarabinerElements/Goku Reference and Examples.clj"
+			],
+			[
+				"d",
+				"Karabiner/Modes/D-Mode.xml"
+			],
+			[
+				"s",
+				"checkbox/apps/safari.xml"
+			],
+			[
+				"k",
+				"Karabiner/Modes/K-Mode.xml"
+			],
+			[
+				"km",
+				"Karabiner/VK/KM.xml"
+			],
+			[
+				"f",
+				"Karabiner/Modes/F-Mode.xml"
+			],
+			[
+				"x",
+				"Karabiner/Modes/X-Mode.xml"
+			],
+			[
+				"k-",
+				"Karabiner/Modes/K-Mode.xml"
+			],
+			[
+				"up",
+				"Karabiner/Modes/CURSOR_UP-Mode.xml"
+			],
+			[
+				"b",
+				"Karabiner/Modes/B-Mode.xml"
+			],
+			[
+				"semi",
+				"Karabiner/Modes/SEMICOLON-Mode.xml"
+			],
+			[
+				"keylist",
+				"Karabiner/Reference/KeyList.xml"
+			],
+			[
+				"new",
+				"Karabiner/Modes/New-Mode.xml"
+			],
+			[
+				"keyli",
+				"Karabiner/Reference/KeyList.xml"
+			],
+			[
+				"mode",
+				"Karabiner/Modes/ModePasteBin.xml"
+			],
+			[
+				"simul",
+				"Karabiner/User/SimultaneousKeyPress.xml"
+			],
+			[
+				"h",
+				"Karabiner/Modes/H-Mode.xml"
+			],
+			[
+				"mode ",
+				"Karabiner/Modes/ModePasteBin.xml"
+			],
+			[
+				"simu",
+				"Karabiner/User/SimultaneousKeyPress.xml"
+			],
+			[
+				"l",
+				"Karabiner/Modes/L-Mode.xml"
+			],
+			[
+				"c",
+				"Karabiner/Modes/C-Mode.xml"
+			],
+			[
+				"space",
+				"Karabiner/Modes/Space-Mode.xml"
+			],
+			[
+				"",
+				"Karabiner/User/SimultaneousKeyPress.xml"
+			],
+			[
+				"j",
+				"Karabiner/Modes/J-Mode.xml"
+			],
+			[
+				"u",
+				"Karabiner/Modes/U-Mode.xml"
+			],
+			[
+				"hyper",
+				"Karabiner/User/HyperKey.xml"
+			],
+			[
+				"n",
+				"Karabiner/Modes/N-Mode.xml"
+			],
+			[
+				"m",
+				"Karabiner/Modes/M-Mode.xml"
+			],
+			[
+				"quot",
+				"Karabiner/Modes/QUOTE-Mode.xml"
+			],
+			[
+				"quote",
+				"Karabiner/Modes/QUOTE-Mode"
+			],
+			[
+				"slash",
+				"Karabiner/Modes/SLASH-Mode.xml"
+			],
+			[
+				"home-ro",
+				"Karabiner/User/Homerow-Numbers-Symbols.xml"
+			],
+			[
+				"home",
+				"Karabiner/Modes/Lou-homerow mode.xml"
+			],
+			[
+				"a-mode",
+				"Karabiner/Modes/A-Mode.xml"
+			],
+			[
+				"simultan",
+				"Karabiner/User/SimultaneousKeyPress.xml"
+			],
+			[
+				"modep",
+				"Karabiner/Modes/ModePasteBin.xml"
+			],
+			[
+				"dmode",
+				"Karabiner/Modes/D-Mode.xml"
+			],
+			[
+				"p",
+				"Karabiner/Modes/P-Mode.xml"
+			],
+			[
+				"app",
+				"Karabiner/VK/AppDef.xml"
+			],
+			[
+				"filter",
+				"Karabiner/Reference/FilterReference.xml"
+			],
+			[
+				"appdef",
+				"Karabiner/VK/AppDef.xml"
+			],
+			[
+				"b-mode",
+				"Karabiner/Modes/B-Mode.xml"
+			],
+			[
+				"template",
+				"Karabiner/Reference/TemplateReference.xml"
+			],
+			[
+				"a",
+				"Karabiner/Modes/A-Mode.xml"
+			],
+			[
+				"e",
+				"Karabiner/Modes/E-Mode.xml"
+			],
+			[
+				"d-mode",
+				"Karabiner/Modes/D-Mode.xml"
+			],
+			[
+				"refer",
+				"Karabiner/Reference/TemplateReference.xml"
+			],
+			[
+				"dot",
+				"Karabiner/Modes/DOT-Mode.xml"
+			],
+			[
+				"g",
+				"Karabiner/Modes/G-Mode.xml"
+			],
+			[
+				"hold",
+				"Karabiner/User/HoldingKey.xml"
+			],
+			[
+				"f-",
+				"Karabiner/Modes/F-Mode.xml"
+			],
+			[
+				"micros",
+				"Karabiner/User/Micros.xml"
+			],
+			[
+				"holding",
+				"Karabiner/User/HoldingKey.xml"
+			],
+			[
+				"t",
+				"Karabiner/Modes/T-Mode.xml"
+			],
+			[
+				"key",
+				"Karabiner/Reference/KeyList.xml"
+			],
+			[
+				"f-mode",
+				"Karabiner/Modes/F-Mode.xml"
+			],
+			[
+				"keu",
+				"checkbox/languages/japanese/keyboard_layouts/updown_dvorak.xml"
+			],
+			[
+				"j-mode",
+				"Karabiner/Modes/J-Mode.xml"
+			],
+			[
+				"f-m",
+				"Karabiner/Modes/F-Mode.xml"
+			],
+			[
+				"pr",
+				"Karabiner/privateSync.xml"
+			],
+			[
+				"q",
+				"Karabiner/Modes/Q-Mode.xml"
+			],
+			[
+				"list",
+				"Karabiner/Reference/KeyList.xml"
+			],
+			[
+				"r",
+				"Karabiner/Modes/R-Mode.xml"
+			],
+			[
+				"w",
+				"Karabiner/Modes/W-Mode.xml"
+			],
+			[
+				"qu",
+				"Karabiner/Modes/QUOTE-Mode"
+			],
+			[
+				"v",
+				"Karabiner/Modes/V-Mode.xml"
+			],
+			[
+				"imlut",
+				"checkbox/simultaneouskeypresses.xml"
+			],
+			[
+				"z",
+				"Karabiner/Modes/Z-Mode.xml"
+			],
+			[
+				"w-mode",
+				"Karabiner/Modes/W-Mode.xml"
+			],
+			[
+				"double",
+				"Karabiner/User/DoublePressModifiers.xml"
+			],
+			[
+				"o",
+				"Karabiner/Modes/O-Mode.xml"
+			],
+			[
+				"comma",
+				"Karabiner/Modes/COMMA-Mode.xml"
+			],
+			[
+				"mic",
+				"Karabiner/User/Micros.xml"
+			],
+			[
+				"spa",
+				"Karabiner/Modes/Space-Mode.xml"
+			],
+			[
+				"i",
+				"Karabiner/Modes/I-Mode.xml"
+			],
+			[
+				"tab",
+				"Karabiner/Modes/Tab-Mode.xml"
+			],
+			[
+				"quo",
+				"Karabiner/Modes/QUOTE-Mode.xml"
+			],
+			[
+				"sem",
+				"Karabiner/Modes/SEMICOLON-Mode.xml"
+			],
+			[
+				"nmode",
+				"Karabiner/Modes/N-Mode.xml"
+			],
+			[
+				"c-mode",
+				"Karabiner/Modes/C-Mode.xml"
+			],
+			[
+				"r-mode",
+				"Karabiner/Modes/R-Mode.xml"
+			],
+			[
+				"d-",
+				"Karabiner/Modes/D-Mode.xml"
+			],
+			[
+				"spac",
+				"Karabiner/Modes/Space-Mode.xml"
+			],
+			[
+				"thumb",
+				"Resources/include/checkbox/thumbsense.xml"
+			],
+			[
+				"em",
+				"checkbox/emacs_mode.xml"
+			],
+			[
+				"def",
+				"Karabiner/VK/AppDef.xml"
+			],
+			[
+				"g-",
+				"Karabiner/Modes/G-Mode.xml"
+			],
+			[
+				"r-",
+				"Karabiner/Modes/R-Mode.xml"
+			],
+			[
+				"t-",
+				"Karabiner/Modes/T-Mode.xml"
+			],
+			[
+				"a-",
+				"Karabiner/Modes/A-Mode.xml"
+			],
+			[
+				"hom",
+				"checkbox/homerow_mode.xml"
+			],
+			[
+				"priv",
+				"Karabiner/privateSync.xml"
+			],
+			[
+				"w-",
+				"Karabiner/Modes/W-Mode.xml"
+			],
+			[
+				"m-",
+				"Karabiner/Modes/M-Mode.xml"
+			],
+			[
+				"n-",
+				"Karabiner/Modes/N-Mode.xml"
+			],
+			[
+				"c-",
+				"Karabiner/Modes/C-Mode.xml"
+			],
+			[
+				"l-",
+				"Karabiner/Modes/L-Mode.xml"
+			],
+			[
+				"j-",
+				"Karabiner/Modes/J-Mode.xml"
+			],
+			[
+				"s-mode",
+				"Karabiner/Modes/S-Mode.xml"
+			],
+			[
+				"b-",
+				"Karabiner/Modes/B-Mode.xml"
+			],
+			[
+				"x-mode",
+				"Karabiner/Modes/X-Mode.xml"
+			],
+			[
+				"h-mode",
+				"Karabiner/Modes/H-Mode.xml"
+			],
+			[
+				"templ",
+				"Karabiner/Reference/TemplateReference.xml"
+			],
+			[
+				"v-",
+				"Karabiner/Modes/V-Mode.xml"
+			],
+			[
+				"n-mode",
+				"Karabiner/Modes/N-Mode.xml"
+			],
+			[
+				"t-moe",
+				"Karabiner/Modes/T-Mode.xml"
+			],
+			[
+				"o-mode",
+				"Karabiner/Modes/O-Mode.xml"
+			],
+			[
+				"g-mode",
+				"Karabiner/Modes/G-Mode.xml"
+			],
+			[
+				"z-",
+				"Karabiner/Modes/Z-Mode.xml"
+			],
+			[
+				"h-",
+				"Karabiner/Modes/H-Mode.xml"
+			],
+			[
+				"imo",
+				"Karabiner/Modes/I-Mode.xml"
+			],
+			[
+				"c-moe",
+				"Karabiner/Modes/C-Mode.xml"
+			],
+			[
+				"s-",
+				"Karabiner/Modes/S-Mode.xml"
+			],
+			[
+				"t-mode",
+				"Karabiner/Modes/T-Mode.xml"
+			],
+			[
+				"m-mode",
+				"Karabiner/Modes/M-Mode.xml"
+			],
+			[
+				"o-m",
+				"Karabiner/Modes/O-Mode.xml"
+			],
+			[
+				"holdingkey",
+				"Karabiner/User/HoldingKey.xml"
+			],
+			[
+				"k-mode",
+				"Karabiner/Modes/K-Mode.xml"
+			],
+			[
+				"screen",
+				"Karabiner/User/Screenshots.xml"
+			],
+			[
+				"holdin",
+				"Karabiner/User/HoldingKey.xml"
+			],
+			[
+				"p-mode",
+				"Karabiner/Modes/P-Mode.xml"
+			],
+			[
+				"holdi",
+				"Karabiner/User/HoldingKey.xml"
+			],
+			[
+				"u-mode",
+				"Karabiner/Modes/U-Mode.xml"
+			],
+			[
+				"modepas",
+				"Karabiner/Modes/ModePasteBin.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"karabiner",
+				"~/Dropbox/Sync/Karabiner/KarabinerKeys.sublime-project"
+			],
+			[
+				"",
+				"~/Dropbox/Sync/SublimeText3/User/SublimeMouse.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 87.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"bar1"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
