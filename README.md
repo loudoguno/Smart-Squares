@@ -14,7 +14,6 @@
 1. user would interact with the contract accessing front end webpage from  browser with metamask
 1. page will display grid, list of players and proportions, payout proportions
 1. button to join the game would ask user for amount to send and name for the square
-2. test
 
 ### Potential Issues/Concerns:
 * worry about rounding down
