@@ -11,12 +11,13 @@
 1. pay Eth back to address of origin at end of 1st, 2nd, 3rd and 4th quarters
 
 ### UI and Front-end Components
-1. user would interact with the contract accessing front end webpage from  browser with metamask.
+1. user would interact with the contract accessing front end webpage from  browser with metamask
 1. page will display grid, list of players and proportions, payout proportions
-*+* button to join the game would ask user for amount to send and name for the square
+1. button to join the game would ask user for amount to send and name for the square
+2. test
 
 ### Potential Issues/Concerns:
-** worry about rounding down
+* worry about rounding down
 * spamming the contract
 
 ### Advanced
