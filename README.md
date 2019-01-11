@@ -1,6 +1,7 @@
 # Super Bowl Squares Smart Contract Project
-* ![SSSC Image](img/SSSCWinnerGraphic.png)
+![SSSC Image](img/SSSCWinnerGraphic.png)
 
+<div>
 ## Project Overview
  Create Ethereum-powered smart contract that would decentralize and automate a game of "Super Bowl Squares". Users would send Eth to the contract, claiming a proportion of the available squares equal to the proportion of their contribution.
 
@@ -24,6 +25,6 @@
 
 ### More Resources
 * [Super Bowl Squares Rules](http://keithlam.com/2006/02/07/football-squares-pool/)
-
-<div>![](Probability_Table.png)  
+</div>
+<div>![Probability Table](img/Probability_Table.png)  
 </div>
