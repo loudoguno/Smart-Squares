@@ -25,4 +25,5 @@
 ### More Resources
 * [Super Bowl Squares Rules](http://keithlam.com/2006/02/07/football-squares-pool/)
 
-
+<div>![](Probability_Table.png)  
+</div>
